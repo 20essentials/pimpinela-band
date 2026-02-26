@@ -1,0 +1,23 @@
+export const nameBand = 'PIMPINELA';
+export let nameSongs = [
+	"OLVIDAME Y PEGA LA VUELTA", /*1*/
+	"A ESA", /*2*/
+	"AHORA DECIDETE", /*3*/
+	"CÓMO LE DIGO", /*4*/
+	"VIVIR SIN TI NO PUEDO", /*5*/
+	"HAY AMORES QUE MATAN", /*6*/
+	"EL AMOR NO SE PUEDE OLVIDAR", /*7*/
+	"CON UN NODO EN LA GARGANTA", /*8*/
+	"POR ESE HOMBRE", /*9*/
+		"ME HACE FALTA UNA FLOR", /*10*/
+	" QUERIDA AMIGA", /*11*/
+	"AHORA ESTOY CON EL", /*12*/
+	"TÚ ESTÁS EQUIVOCADO", /*13*/
+	"YO RENUNCIO", /*14*/
+	"TE LO PIDO POR ELLOS", /*15*/
+	"A TU MEJOR AMIGO", /*16*/
+	"AMIGA DEL ALMA", /*17*/
+	"LA HISTÉRICA", /*18*/
+	"YO, DUEÑA DE LA NOCHE", /*19*/
+	"PRIMERO YO", /*20*/
+]
